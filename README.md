@@ -12,3 +12,10 @@
 ["hello", "2", "world", ":-)"] -> ["2", ":-)"]
 ["1234", "1567", "-2", "computer science"] -> ["-2"]
 ["Russia", "Denmark", "Kazan"] -> []
+
+1. Создали репозиторий https://github.com/DiNorva/FinalTestWork.git
+
+2. Нарисовала блок-схему алгоритма
+![Блок-схема алгоритма](shema.drawio.png)
+
+
